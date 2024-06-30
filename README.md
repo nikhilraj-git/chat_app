@@ -1,4 +1,4 @@
-
+Deployed : https://chat-app-nyju.onrender.com/
 
 ### Setup .env file
 
